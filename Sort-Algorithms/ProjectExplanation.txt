@@ -1,0 +1,5 @@
+This project has two programs.
+The first program is an event planner which sorts the lists of students based upon their age.
+It reads from a file of guests and sorts them using merge sort.
+The second one is a graph that has vertices which are people.
+The egdes connect the people to their friends.s
